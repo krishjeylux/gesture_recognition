@@ -1,2 +1,2 @@
-# VIgil_AI
+# gesture_recognition
 Innovation 
